@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/gui/ManageEmplyeesFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/dao/ReceptionistDAO.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/pojo/ProductsPojo.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/dao/ProductsDAO.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/pojo/UserProfile.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/gui/ViewOrdersFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/dao/UserDAO.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/gui/LoginFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/dao/EmployeeDAO.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/gui/RemoveEmployeesFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/gui/DeleteStocksFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/gui/ReciptFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/dao/OrderDAO.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/pojo/UserPojo.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/gui/ManageStocksFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/gui/ViewStocksFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/gui/BillingFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/pojo/EmployeePojo.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/gui/ViewReceptionistFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/gui/DeleteItemFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/gui/ManagerOptionsFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/gui/PaymentFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Amart/src/amart/gui/ReceptionistOptionsFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
